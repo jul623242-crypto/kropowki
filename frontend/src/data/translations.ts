@@ -31,8 +31,8 @@ export const UI_TRANSLATIONS = {
       imgOverlayBadge: '24h / 7 dni'
     },
     advantages: {
-      tag: 'Dlaczego Kroplówki.pl',
-      title: 'Dlaczego warto wybrać Kroplówki.pl?',
+      tag: 'Dlaczego Kroplowki.com',
+      title: 'Dlaczego warto wybrać Kroplowki.com?',
       subtitle: 'Najwyższa jakość mobilnej opieki medycznej, komfort i 100% bezpieczeństwo w domowym zaciszu.',
       items: [
         { title: 'Dojazd do klienta', desc: 'Szybki i dyskretny dojazd do domu, biura lub hotelu' },
