@@ -30,7 +30,7 @@ W przypadku kroplówki witaminowej wskaźnik ten wynosi **100%**. Substancje od�
 3. **Precyzyjna dawka:** Lekarz lub ratownik medyczny dobiera proporcje mikroelementów idealnie pod aktualne zapotrzebowanie Twojego organizmu.
 4. **Wygoda i bezpieczeństwo:** Dojazd wykwalifikowanego personelu medycznego do Twojego domu gwarantuje pełny komfort i dyskrecję.
 
-Każdy zabieg w Kroplówki.pl wykonywany jest z zachowaniem najwyższych standardów aseptyki przez certyfikowanych ratowników medycznych i pielęgniarki.`,
+Każdy zabieg w Kroplowki.com wykonywany jest z zachowaniem najwyższych standardów aseptyki przez certyfikowanych ratowników medycznych i pielęgniarki.`,
       en: `Intravenous therapies are gaining immense popularity worldwide. This is primarily because delivering nutrients directly into the bloodstream bypasses the main barrier of traditional supplements — the digestive system.
 
 ### Digestive System Barrier vs. Intravenous Bioavailability
