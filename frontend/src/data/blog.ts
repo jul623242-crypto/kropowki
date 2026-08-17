@@ -132,7 +132,7 @@ Z wiekiem poziom NAD+ w organizmie drastycznie spada – w wieku 50 lat mamy go 
 * **Moc mitochondrialna:** Podniesienie poziomu czystej energii ATP bez pobudzających środków chemicznych.
 * **Regeneracja fizyczna:** Skrócenie czasu regeneracji tkanek mięśniowych i narządów.
 
-Terapia NAD+ w Kroplówki.pl podawana jest w powolnym, bardzo komfortowym wlewie dożylnym w Twoim domu.`,
+Terapia NAD+ w Kroplowki.com podawana jest w powolnym, bardzo komfortowym wlewie dożylnym w Twoim domu.`,
       en: `Nicotinamide Adenine Dinucleotide (NAD+) is present in every cell of our body, driving mitochondrial energy and activating longevity genes (sirtuins). As we age, NAD+ levels decline dramatically.
 
 ### Benefits of NAD+ therapy:
