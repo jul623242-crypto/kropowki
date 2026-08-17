@@ -78,7 +78,7 @@ export const Footer: React.FC<FooterProps> = ({ lang, onNavigate }) => {
 
         {/* Bottom copyright */}
         <div className="pt-8 text-center sm:flex sm:justify-between sm:items-center text-xs text-slate-500">
-          <p>© {new Date().getFullYear()} Kroplówki.pl. {t.rights}</p>
+          <p>© {new Date().getFullYear()} Kroplowki.com. {t.rights}</p>
           <p className="mt-2 sm:mt-0">{t.serviceDesc}</p>
         </div>
 
