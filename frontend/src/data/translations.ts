@@ -57,7 +57,7 @@ export const UI_TRANSLATIONS = {
       searchPlaceholder: 'Szukaj kroplówki...',
       noResults: 'Brak wyników dla podanych kryteriów wyszukiwania.',
       modal: {
-        headerBadge: 'Kroplówki.pl • Terapia Dożylna',
+        headerBadge: 'Kroplowki.com • Terapia Dożylna',
         compositionTitle: 'Składniki odżywcze',
         benefitsTitle: 'Kluczowe korzyści',
         indicationsTitle: 'Wskazania do zabiegu',
@@ -72,7 +72,7 @@ export const UI_TRANSLATIONS = {
     about: {
       tag: 'Kim jesteśmy',
       title: 'Zaufany zespół profesjonalistów medycznych',
-      text: 'Personel firmy Kroplówki.pl to wykwalifikowani ratownicy medyczni oraz pielęgniarki i pielęgniarze posiadający odpowiednie kwalifikacje i doświadczenie w świadczeniu profesjonalnych usług medycznych.',
+      text: 'Personel firmy Kroplowki.com to wykwalifikowani ratownicy medyczni oraz pielęgniarki i pielęgniarze posiadający odpowiednie kwalifikacje i doświadczenie w świadczeniu profesjonalnych usług medycznych.',
       feature1: '100% kadra z aktualnymi prawami wykonywania zawodu',
       feature2: 'Aseptyczne procedury zgodne z normami medycznymi',
       feature3: 'Sprzęt diagnostyczny wysokiej klasy na każdej wizycie',
@@ -167,8 +167,8 @@ export const UI_TRANSLATIONS = {
       imgOverlayBadge: '24/7 Available'
     },
     advantages: {
-      tag: 'Why Kroplówki.pl',
-      title: 'Why choose Kroplówki.pl?',
+      tag: 'Why Kroplowki.com',
+      title: 'Why choose Kroplowki.com?',
       subtitle: 'Top tier mobile healthcare, ultimate comfort, and 100% safety in the privacy of your home.',
       items: [
         { title: 'Home delivery', desc: 'Fast & discreet dispatch to your home, office, or hotel' },
@@ -193,7 +193,7 @@ export const UI_TRANSLATIONS = {
       searchPlaceholder: 'Search drip...',
       noResults: 'No results found for your search.',
       modal: {
-        headerBadge: 'Kroplówki.pl • Intravenous Therapy',
+        headerBadge: 'Kroplowki.com • Intravenous Therapy',
         compositionTitle: 'Active nutrients',
         benefitsTitle: 'Key benefits',
         indicationsTitle: 'Indications',
