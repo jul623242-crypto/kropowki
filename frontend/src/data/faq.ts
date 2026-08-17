@@ -15,8 +15,8 @@ export const FAQ_ITEMS: FAQItem[] = [
   {
     id: '2',
     question: {
-      pl: 'Jakie kwalifikacje posiada personel Kroplówki.pl?',
-      en: 'What qualifications does the staff of Kroplówki.pl have?'
+      pl: 'Jakie kwalifikacje posiada personel Kroplowki.com?',
+      en: 'What qualifications does the staff of Kroplowki.com have?'
     },
     answer: {
       pl: 'Nasz zespół składa się wyłącznie ze sprawdzonych, wykwalifikowanych ratowników medycznych oraz dyplomowanych pielęgniarek i pielęgniarzy z wieloletnim doświadczeniem szpitalnym i zespołów ratownictwa medycznego. Wszyscy posiadają aktualne prawa wykonywania zawodu.',
